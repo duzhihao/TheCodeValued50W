@@ -1,0 +1,5 @@
+C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\bin\Debug\WifCar.exe
+C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\bin\Debug\WifCar.pdb
+C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\obj\Debug\WifCar.exe
+C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\obj\Debug\WifCar.pdb
+C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\bin\Debug\WifCar.exe.config

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WifCar">
+</Property><Property Name="解决方案文件" Value="C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\WifCar.sln">
+</Property><Property Name="Date" Value="2015年3月30日">
+</Property><Property Name="Time" Value="13:29:21">
+</Property></Properties><Event ErrorLevel="0" Project="WifCar" Source="WifCar.csproj" Description="项目文件已成功备份为 C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\Backup\WifCar.csproj">
+</Event><Event ErrorLevel="0" Project="WifCar" Source="AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WifCar" Source="Global.cs" Description="文件已成功备份为 C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\Backup\Global.cs">
+</Event><Event ErrorLevel="0" Project="WifCar" Source="WifiCar\Config.cs" Description="文件已成功备份为 C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\Backup\WifiCar\Config.cs">
+</Event><Event ErrorLevel="0" Project="WifCar" Source="WifiCar\HelpTool.cs" Description="文件已成功备份为 C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\Backup\WifiCar\HelpTool.cs">
+</Event><Event ErrorLevel="0" Project="WifCar" Source="WifiCar\Program.cs" Description="文件已成功备份为 C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\Backup\WifiCar\Program.cs">
+</Event><Event ErrorLevel="0" Project="WifCar" Source="WifiCar\Properties\Resources.cs" Description="文件已成功备份为 C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\Backup\WifiCar\Properties\Resources.cs">
+</Event><Event ErrorLevel="0" Project="WifCar" Source="WifiCar\Properties\Settings.cs" Description="文件已成功备份为 C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\Backup\WifiCar\Properties\Settings.cs">
+</Event><Event ErrorLevel="0" Project="WifCar" Source="WifiCar\WifiCar.cs" Description="文件已成功备份为 C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\Backup\WifiCar\WifiCar.cs">
+</Event><Event ErrorLevel="0" Project="WifCar" Source="WifiCar.Config.resources" Description="文件已成功备份为 C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\Backup\WifiCar.Config.resources">
+</Event><Event ErrorLevel="0" Project="WifCar" Source="WifiCar.HelpTool.resources" Description="文件已成功备份为 C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\Backup\WifiCar.HelpTool.resources">
+</Event><Event ErrorLevel="0" Project="WifCar" Source="WifiCar.Properties.Resources.resources" Description="文件已成功备份为 C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\Backup\WifiCar.Properties.Resources.resources">
+</Event><Event ErrorLevel="0" Project="WifCar" Source="WifiCar.WifiCar.resources" Description="文件已成功备份为 C:\Users\Neo\Documents\Reflector\Disassembler\WifCar\Backup\WifiCar.WifiCar.resources">
+</Event><Event ErrorLevel="1" Project="WifCar" Source="WifCar.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="WifCar" Source="WifCar.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="WifCar" Source="WifCar.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WifCar" Source="WifCar.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
